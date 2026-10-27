@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void tampilkan_posisi_target(const int data[], int jumlah_data, int target);
 int main(void)
 {
